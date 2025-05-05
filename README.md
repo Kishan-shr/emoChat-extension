@@ -74,7 +74,9 @@ You're all set to chat with Emo! 🧠💬
 
 ## 📸 Screenshots & Demo
 
-> *(Coming Soon)* — Add a GIF or image showing EmoChat in action! You can use tools like **Loom** or **Screenity**.
+![Design preview for the Demo1 ](Screenshot_1.jpeg)
+![Design preview for the Demo1 ](Screenshot_1.jpeg)
+![Design preview for the Demo1 ](Screenshot_1.jpeg)
 
 ---
 
@@ -93,6 +95,12 @@ You're all set to chat with Emo! 🧠💬
 * Output may occasionally need refining
 
 ---
+#Demo
+```
+![Design preview for the Demo1 ](EmoChatbotDemo1.gif)
+![Design preview for the Demo1 ](EmoChatbotDemo2.gif)
+![Design preview for the Demo1 ](EmoChatbotDemo3.gif)
+```
 
 ## 🔐 Permissions Required (in `manifest.json`)
 
@@ -102,7 +110,7 @@ You're all set to chat with Emo! 🧠💬
   "https://generativelanguage.googleapis.com/*"
 ]
 ```
-
+![Design preview for the Demo ]()
 ---
 
 ## 🛠️ Contributing
