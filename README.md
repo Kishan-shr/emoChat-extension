@@ -75,8 +75,8 @@ You're all set to chat with Emo! 🧠💬
 ## 📸 Screenshots & Demo
 
 ![Design preview for the Demo1 ](Screenshot_1.jpeg)
-![Design preview for the Demo1 ](Screenshot_1.jpeg)
-![Design preview for the Demo1 ](Screenshot_1.jpeg)
+![Design preview for the Demo2 ](Screenshot_1.jpeg)
+![Design preview for the Demo3 ](Screenshot_1.jpeg)
 
 ---
 
@@ -105,9 +105,9 @@ You're all set to chat with Emo! 🧠💬
   "https://generativelanguage.googleapis.com/*"
 ]
 ```
-![Design preview for the Demo ](EmoChatDemo1.gif)
-![Design preview for the Demo ](EmoChatDemo2.gif)
-![Design preview for the Demo ](EmoChatDemo3.gif)
+![Design preview for the Demo ](EmoChatbotDemo1.gif)
+![Design preview for the Demo ](EmoChatbotDemo1.gif)
+![Design preview for the Demo ](EmoChatbotDemo1.gif)
 ---
 
 ## 🛠️ Contributing
