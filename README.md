@@ -95,12 +95,7 @@ You're all set to chat with Emo! 🧠💬
 * Output may occasionally need refining
 
 ---
-#Demo
-```
-![Design preview for the Demo1 ](EmoChatbotDemo1.gif)
-![Design preview for the Demo1 ](EmoChatbotDemo2.gif)
-![Design preview for the Demo1 ](EmoChatbotDemo3.gif)
-```
+
 
 ## 🔐 Permissions Required (in `manifest.json`)
 
@@ -110,7 +105,9 @@ You're all set to chat with Emo! 🧠💬
   "https://generativelanguage.googleapis.com/*"
 ]
 ```
-![Design preview for the Demo ]()
+![Design preview for the Demo ](EmoChatDemo1.gif)
+![Design preview for the Demo ](EmoChatDemo2.gif)
+![Design preview for the Demo ](EmoChatDemo3.gif)
 ---
 
 ## 🛠️ Contributing
